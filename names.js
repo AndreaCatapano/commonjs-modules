@@ -4,4 +4,4 @@ function generateFullName (firstName, lastName){
     }
 }
 
-module.exports = generateFullName("Andrea", "Catapano")
+module.exports = generateFullName("Andrea", "Catapano");
